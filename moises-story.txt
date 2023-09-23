@@ -10,3 +10,9 @@ Y luego vino un dia y quiso sacar un curso de git hub y los primeros dias iban b
 no habia tanto mamasey, pero llego el tercer dia del curso de github y se dio la mamaasiada
 mas heavy jamas vista, y lo pusieron a resolver conflictos y no pudo y ahi termina la historia
 de miguel el mamasiado(Soy ese)
+=======
+ 
+La historia de Miguel nos recuerda que a veces, incluso cuando nuestros sueños 
+parecen destrozados por la adversidad, podemos encontrar una nueva pasión y éxito 
+en lugares inesperados si tenemos la voluntad de adaptarnos y perseverar.
+>>>>>>> master
