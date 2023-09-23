@@ -6,7 +6,7 @@ de aventura, Elena se embarcó en una emocionante búsqueda que la llevó a trav
 valles ocultos, ríos cristalinos y cuevas misteriosas. A lo largo de su viaje, 
 descubrió secretos olvidados y conoció a personas que le cambiaron la vida, 
 convirtiendo su sueño en una realidad inolvidable.
-<<<<<<< HEAD
+
 Lo que Elena no sabia, es que lo que ella creyó que era el final de su sueño, 
 sería el inicio de una gran pesadilla. Mientras jugueteaba y pasaba buenos momentos 
 con sus nuevos "amigos", ellos absorbían su energía positiva. Ella era la elegida, 
@@ -23,13 +23,6 @@ inspirando a otros a seguir sus propios sueños y explorar los mundos que se
 esconden más allá de su zona de confort. La historia de Elena se convirtió en una 
 leyenda local, recordándonos a todos que la vida está llena de aventuras esperando 
 ser descubiertas por aquellos que se atreven a buscarlas.
-=======
 
-En su odisea, Elena aprendió que el verdadero tesoro no estaba en los tesoros 
-escondidos que encontró, sino en las experiencias, amistades y la valentía que 
-adquirió en el camino. Regresó a su pueblo como una persona transformada, 
-inspirando a otros a seguir sus propios sueños y explorar los mundos que se 
-esconden más allá de su zona de confort. La historia de Elena se convirtió en una 
-leyenda local, recordándonos a todos que la vida está llena de aventuras esperando 
-ser descubiertas por aquellos que se atreven a buscarlas.
->>>>>>> e57e73ba9a02933d195f252c98b1d2a143b6ed6e
+Asi fue como Elena se dió cuenta que lo importante no es tener un largo tiempo
+de vida, sino, disfrutar el vivirla.
