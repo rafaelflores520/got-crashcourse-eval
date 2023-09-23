@@ -13,4 +13,12 @@ adquirió en el camino. Regresó a su pueblo como una persona transformada,
 inspirando a otros a seguir sus propios sueños y explorar los mundos que se 
 esconden más allá de su zona de confort. La historia de Elena se convirtió en una 
 leyenda local, recordándonos a todos que la vida está llena de aventuras esperando 
+<<<<<<< HEAD
 ser descubiertas por aquellos que se atreven a buscarlas.
+=======
+ser descubiertas por aquellos que se atreven a buscarlas
+
+Las personas que conocio Elena le ayudaron a ser mejor persona y seguir adelante bajo cualquier circunstancia que se le presente en la vida.
+Es mejor vivir sin limites que vivir con miedos.
+La vida hay que vivirla al maximo y sin mamaseadas
+>>>>>>> df3fd718c0a818f30ac27bf6cbb643259f1b1edf

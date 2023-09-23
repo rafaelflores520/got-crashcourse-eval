@@ -5,8 +5,22 @@ tierra sin trabajo. En lugar de rendirse, decidió emprender un nuevo camino. Se
 sumergió en el mundo de la construcción de barcos y, con esfuerzo y dedicación, 
 aprendió a construir las embarcaciones más sólidas y bellas que jamás se hubieran 
 visto. Su fama creció rápidamente y pronto los pescadores de todo el mundo 
+<<<<<<< HEAD
+=======
+buscaban sus barcos para enfrentar los mares más peligrosos.s
+
+Los barcos que construyo Miguel se convirtieron en los mas confiable a nivel mundial
+ya que el habia encontrado el secreto para que una braco no se hundiera, Pero un dia Miguel 
+problema que en el pueblo en donde vivio ya no podian importar lo cual se le dificultaba el seguir construyendo barcos ya que no teniasentido.
+
+>>>>>>> df3fd718c0a818f30ac27bf6cbb643259f1b1edf
 buscaban sus barcos para enfrentar los mares más peligrosos.
 
 La historia de Miguel nos recuerda que a veces, incluso cuando nuestros sueños 
 parecen destrozados por la adversidad, podemos encontrar una nueva pasión y éxito 
+<<<<<<< HEAD
 en lugares inesperados si tenemos la voluntad de adaptarnos y perseverar.
+=======
+en lugares inesperados si tenemos la voluntad de adaptarnos y perseverar.
+
+>>>>>>> df3fd718c0a818f30ac27bf6cbb643259f1b1edf
